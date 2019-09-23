@@ -1,1 +1,1 @@
-https://github.com/Alex-Shirokov/rsschool-cv.git
+https:/Alex-Shirokov.github.io/rsschool-cv/
